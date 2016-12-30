@@ -1,5 +1,5 @@
 ---
-# deploy using k8comp -p galaxies -a centaurus -e development
+# deploy using k8comp -p galaxies -a centaurus/rc -e development
 kind: ReplicationController
 apiVersion: v1
 metadata:
